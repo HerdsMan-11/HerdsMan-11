@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working full time in an IT company.<br>I am currently looking to collaborate with some exchanges to partner with them.<br>I am looking for help by attending several bootcamps related to Blockchain and Web3.<br>I am currently studying about Blockchain and Web3.<br><br>
+🔭I am currently working full time in an IT company.<br>🤝I am currently looking to collaborate with some exchanges to partner with them.<br>👯I am looking for help by attending several bootcamps related to Blockchain and Web3.<br>👨‍💻I am currently studying about Blockchain and Web3.<br><br>
 
 
 ## 🌐 Socials:
