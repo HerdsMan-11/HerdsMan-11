@@ -44,9 +44,10 @@ I am currently working full time in an IT company.<br>I am currently looking to 
 ---
 [![](https://visitcount.itsvg.in/api?id=HerdsMan-11&icon=6&color=6)](https://visitcount.itsvg.in)
 
-<!-- Pacman Contribution Graph -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Pacman GitHub Contribution" />
+<!-- GitHub Contribution Graph dengan Animasi Pacman -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Pacman Contribution Snake" />
 </div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
